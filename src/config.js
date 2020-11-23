@@ -1,0 +1,1 @@
+export const server_url = 'https://api.amerigo.xyz'
